@@ -9,12 +9,12 @@ This repo contains the excercises from the technical test given by Lomax. I how 
 
 **Exercise 1: 🟩 Square Finder**
 ```bash
-node Exercise1.js
+python Exercise1.py
 ```
 
 **Exercise 2: 🌲 Tree Drawer**
 ```bash
-node Exercise2.js
+python Exercise2.py
 ```
 
 **Exercise 3: 💳 Presentation Card Generatior**
